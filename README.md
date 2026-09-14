@@ -26,7 +26,7 @@ Management (a realistic scenario built on real data) reported a revenue decline 
 - Overall order cancellation rate was negligible (0.58%) and does not explain the pattern
 
 ## 📈 Visualization
-![Revenue Growth Chart](revenue_growth_chart.png)
+![Revenue Growth Chart](reports/revenue_growth_chart.png)
 *Growth/decline percentage by category, with the `computers` category highlighted in red against a field of growing (green) categories.*
 
 ## 🎯 Business Recommendation
